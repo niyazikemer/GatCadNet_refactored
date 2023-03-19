@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gatcadnet"
+  site-url: "https://niyazikemer.github.io/gatcadnet"
+  description: "refactored version"
+  repo-branch: main
+  repo-url: "https://github.com/niyazikemer/gatcadnet"
